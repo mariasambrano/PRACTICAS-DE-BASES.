@@ -1,0 +1,160 @@
+<mxfile host="Electron" modified="2023-11-11T01:55:15.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="75pwr04domEEor7Y3DmC" version="22.0.2" type="device">
+  <diagram name="Página-1" id="1yeiYsRgvcvPuKgQwzK6">
+    <mxGraphModel dx="864" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3P9mPIWOb1knRatVnep1-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353.5" y="130" as="sourcePoint" />
+            <mxPoint x="353.5" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-6" value="Lado1,Lado2,Lado3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="3P9mPIWOb1knRatVnep1-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353.64" y="250" as="sourcePoint" />
+            <mxPoint x="353.64" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-9" value="ingresa Lado1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="353.3" y="480" as="sourcePoint" />
+            <mxPoint x="352.66" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354.32" y="390" as="sourcePoint" />
+            <mxPoint x="353.68" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="3P9mPIWOb1knRatVnep1-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354.32" y="340" as="sourcePoint" />
+            <mxPoint x="353.68" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-15" value="Leo Lado1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3P9mPIWOb1knRatVnep1-16" target="3P9mPIWOb1knRatVnep1-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-16" value="Ingresa Lado2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3P9mPIWOb1knRatVnep1-17" target="3P9mPIWOb1knRatVnep1-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-17" value="Leo Lado3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353.5" y="700" as="sourcePoint" />
+            <mxPoint x="354.5" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353.5" y="540" as="sourcePoint" />
+            <mxPoint x="354.5" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-24" value="lado1==lado 2 and lado 3==lado 2 and lado 1==lado3" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="284" y="570" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-25" value="si" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="635" as="sourcePoint" />
+            <mxPoint x="480" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-26" value="tu triangulo podria ser escaleno&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-29" value="lado1==lado 2 and lado 3==lado 2 and lado 1==lado3" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="284" y="890" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-30" value="lado 2 and lado 1 or lado lado 2==lado 3 or lado 1==lado 3" style="rhombus;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="284" y="730" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352.48" y="1020" as="sourcePoint" />
+            <mxPoint x="353.48" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353.5" y="860" as="sourcePoint" />
+            <mxPoint x="354.5" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-34" value="si" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="954.6700000000001" as="sourcePoint" />
+            <mxPoint x="480" y="954.6700000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="794.6700000000001" as="sourcePoint" />
+            <mxPoint x="480" y="794.6700000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-36" value="Tu triangulo es escaleno" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-37" value="Tu triangulo es isosceles" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-38" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-39" value="no" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="634.63" as="sourcePoint" />
+            <mxPoint x="214" y="634.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-40" value="no" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="954.63" as="sourcePoint" />
+            <mxPoint x="214" y="954.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-41" value="no" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="794.63" as="sourcePoint" />
+            <mxPoint x="214" y="794.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-42" value="Tu triangulo es equilatero" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-43" value="tu triangulo podria ser isosceles o escaleno" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-44" value="tu no tienes un triaungulo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-45" value="si&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="778" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3P9mPIWOb1knRatVnep1-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.639;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3P9mPIWOb1knRatVnep1-43" target="3P9mPIWOb1knRatVnep1-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwtLn7_muIDk3xLhu1gi-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
